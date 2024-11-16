@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="logo ml-6">iTask</div>
         <div className="menu flex gap-10 mr-10">
             <p className='cursor-pointer hover:font-bold'>Home</p>
-            <p className='cursor-pointer hover:font-bold'>Your Tasks</p>
+            <p className='cursor-pointer hover:font-bold'>Tasks</p>
         </div>
     </nav>
   )
